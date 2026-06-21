@@ -1,5 +1,7 @@
 # Visit Sambalpur — Hometown Homepage
 
+**[Live Demo](https://sspatel107.github.io/hometown-homepage/)**
+
 A small responsive homepage celebrating **Sambalpur**, a city in western Odisha, India.
 Built from scratch with HTML and CSS as a Scrimba-style hometown project.
 
